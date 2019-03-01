@@ -7,6 +7,7 @@ namespace SynSpeech
 {
     /// <summary>
     /// Ref - https://www.codeproject.com/Articles/890117/Speech-Recognition-in-Mono-and-NET-Csharp 
+	/// https://developer.syn.co.in/tutorial/speech/index.html
     /// </summary>
     class Program
     {
