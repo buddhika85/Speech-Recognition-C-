@@ -1,0 +1,7 @@
+D:\Projects_Mine\SpeechRecogintion\SynSpeech\bin\Debug\SynSpeech.exe.config
+D:\Projects_Mine\SpeechRecogintion\SynSpeech\bin\Debug\SynSpeech.exe
+D:\Projects_Mine\SpeechRecogintion\SynSpeech\bin\Debug\SynSpeech.pdb
+D:\Projects_Mine\SpeechRecogintion\SynSpeech\bin\Debug\Syn.Speech.dll
+D:\Projects_Mine\SpeechRecogintion\SynSpeech\obj\Debug\SynSpeech.csprojResolveAssemblyReference.cache
+D:\Projects_Mine\SpeechRecogintion\SynSpeech\obj\Debug\SynSpeech.exe
+D:\Projects_Mine\SpeechRecogintion\SynSpeech\obj\Debug\SynSpeech.pdb
